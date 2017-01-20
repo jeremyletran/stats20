@@ -1,5 +1,7 @@
 ## Course Syllabus Stat 20
 
+**Test Test Test**
+
 Stat 20: Introduction to Probability and Statistics, Spring 2017
 
 - __Instructor:__ Gaston Sanchez, gaston.stat[at]gmail.com
