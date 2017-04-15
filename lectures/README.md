@@ -77,7 +77,6 @@ Tentative Calendar, Spring 2017
 	+ App: [ch17-demere-games](../apps/ch17-demere-games)
 	+ App: [ch17-expected-value-std-error](../apps/ch17-expected-value-std-error)
 - Mar 13-17
-
 	+ In-class: [Probability Histograms and Normal Approximation](https://docs.google.com/presentation/d/1AZ61AYdl1mmT3Uy1XebT8qpTbbR7uqiP0y_n740Vp8E/edit?usp=sharing)
 	+ App: [ch18-roll-dice-sum](../apps/ch18-roll-dice-sum)
 	+ App: [ch18-roll-dice-product](../apps/ch18-roll-dice-product)
